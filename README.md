@@ -111,5 +111,5 @@ Temperature in Fahrenheit: 98.60
 This project is helpful for understanding the basics of programming using C.
 It demonstrates how input, calculation, and output work together in a program.
 It is suitable for college practical and beginner practice.
-
+ !(image alt)https://github.com/mahij2911-cmyk/temperature-converter/blob/main/screenshot%20of%20output.jpg?raw=true
 Author: Mahi Jaiswal 
