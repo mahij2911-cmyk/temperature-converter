@@ -96,8 +96,9 @@ Temperature in Fahrenheit: 98.60
    
 
  1• Compile
-       
-     gcc temperature_converter.c -o temp
+
+      gcc temperature_converter.c -o temp 
+    
      
 2. Run 
     
@@ -111,5 +112,4 @@ This project is helpful for understanding the basics of programming using C.
 It demonstrates how input, calculation, and output work together in a program.
 It is suitable for college practical and beginner practice.
 
-![Output Screenshot](20251126_122921.heic)
 Author: Mahi Jaiswal 
