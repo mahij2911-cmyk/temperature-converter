@@ -111,5 +111,6 @@ Temperature in Fahrenheit: 98.60
 This project is helpful for understanding the basics of programming using C.
 It demonstrates how input, calculation, and output work together in a program.
 It is suitable for college practical and beginner practice.
- ![Alt image](20251126_122921.heic)
+
+ ![Output Screenshot](screenshot%20of%20output.jpg)
 Author: Mahi Jaiswal 
