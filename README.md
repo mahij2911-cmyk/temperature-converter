@@ -38,6 +38,9 @@ The program supports:
 
 
 Program Flow
+
+
+
 +---------------------------+
           |     START PROGRAM         |
           +-------------+-------------+
@@ -68,6 +71,10 @@ Program Flow
                         v
                   Program End
 
+
+
+
+
 ● Code structure 
 
 temperature_converter.c
@@ -79,6 +86,7 @@ temperature_converter.c
 │     ├── Fahrenheit to Celsius
 │     └── Celsius to Kelvin
 └── Print converted value
+
 
 
 ● Sample output 
